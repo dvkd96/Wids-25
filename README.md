@@ -56,6 +56,4 @@ CNN Test Accuracy: ~98.6%
 CNN clearly outperformed ANN by capturing image features like edges and curves
  Colab Notebook:
 https://colab.research.google.com/drive/17MpAljMKtaIgKJIuowauPRZsPcdkRfNZ?usp=sharing
-ts and observations are written in my own words
 
-More improvements and advanced models will be added as I progress
